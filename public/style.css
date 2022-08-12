@@ -1,0 +1,21 @@
+body {
+  background-color: cyan;
+}
+
+.game {
+  width: 100%;
+}
+.word {
+  display: flex;
+  justify-content: center;
+}
+.letter {
+  width: 100px;
+  height: 100px;
+  background-color: antiquewhite;
+  border: 3px duoble white;
+  margin: 5px;
+  font-size: 40px;
+  color: rgba(0, 0, 0, 0.671);
+
+}
